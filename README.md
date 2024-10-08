@@ -33,3 +33,5 @@ Shortcuts I would like to start using:
 - Ctrl-A (select all)
 - Win-D (show desktop)
 - Win-Up arrow (maximize window)
+
+[CLI commands](Docs/cli.md)
