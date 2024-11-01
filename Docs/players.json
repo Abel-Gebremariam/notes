@@ -1,0 +1,42 @@
+[
+    {
+      "name": "LeBron James",
+      "sport": "Basketball",
+      "team": {
+        "name": "Lakers",
+        "city": "Los Angeles"
+      },
+      "position": "forward",
+      "age": 38
+    },
+    {
+      "name": "Lionel Messi",
+      "sport": "Soccar",
+      "team": {
+        "name": "Inter Miami",
+        "city": "Miami"
+      },
+      "position": "forward",
+      "age": 36
+    },
+    {
+      "name": "Serena Williams", //string
+      "sport": "Tennis", //string
+      "team": {
+        "name": "N/A", //string
+        "city": "N/A" //string
+      },
+      "position": "Player", //string
+      "age": 41 //integer
+    },
+    {
+      "name": "Tom Brady",
+      "sport": "Football",
+      "team": {
+        "name": "Buccaneers",
+        "city": "Tampa Bay"
+      },
+      "position": "Quarterback",
+      "age": 46
+    }
+  ]
